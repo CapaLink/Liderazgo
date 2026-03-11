@@ -1,18 +1,133 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-<title>Curso de Call Center</title>
+<meta charset="UTF-8">
+<title>Curso de Atención al Cliente</title>
+
+<style>
+
+body{
+font-family: Arial, sans-serif;
+margin:0;
+background:#f4f6f9;
+}
+
+header{
+background:#2b6cb0;
+color:white;
+padding:40px;
+text-align:center;
+}
+
+header h1{
+margin:0;
+font-size:36px;
+}
+
+header p{
+margin-top:10px;
+font-size:18px;
+opacity:0.9;
+}
+
+.container{
+max-width:1100px;
+margin:auto;
+padding:40px;
+}
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:25px;
+}
+
+.card{
+background:white;
+border-radius:10px;
+padding:25px;
+box-shadow:0 4px 12px rgba(0,0,0,0.1);
+transition:transform 0.2s;
+}
+
+.card:hover{
+transform:translateY(-5px);
+}
+
+.card h2{
+margin-top:0;
+color:#2b6cb0;
+}
+
+.card p{
+color:#555;
+}
+
+.button{
+display:inline-block;
+margin-top:15px;
+padding:10px 18px;
+background:#2b6cb0;
+color:white;
+text-decoration:none;
+border-radius:6px;
+font-weight:bold;
+}
+
+.button:hover{
+background:#1f4f82;
+}
+
+footer{
+text-align:center;
+padding:20px;
+color:#777;
+font-size:14px;
+}
+
+</style>
 </head>
 
 <body>
 
+<header>
 <h1>Curso de Atención al Cliente</h1>
+<p>Capacitación para operadores de Call Center</p>
+</header>
 
-<ul>
-<li><a href="Mdoulo_11/index.html">Módulo 1</a></li>
-<li><a href="Mdulo_2/index.html">Módulo 2</a></li>
-<li><a href="Mdulo_3/index.html">Módulo 3</a></li>
-</ul>
+<div class="container">
+
+<div class="grid">
+
+<div class="card">
+<h2>Módulo 1</h2>
+<p>¿Qué implica ser un buen líder?</p>
+<p>Líderes de hoy</p>
+<p>Cualidades del líder de hoy</p>
+<p>Estilo de liderazgo</p>
+<p>Mejorando tu liderazgo</p>
+<a class="button" href="Mdoulo_1/index.html">Ingresar al módulo</a>
+</div>
+
+<div class="card">
+<h2>Módulo 2</h2>
+<p>Comunicación efectiva con clientes y escucha activa.</p>
+<a class="button" href="modulo2/index.html">Ingresar al módulo</a>
+</div>
+
+<div class="card">
+<h2>Módulo 3</h2>
+<p>Manejo de objeciones y resolución de situaciones difíciles.</p>
+<a class="button" href="modulo3/index.html">Ingresar al módulo</a>
+</div>
+
+</div>
+
+</div>
+
+<footer>
+Curso interno de capacitación
+</footer>
 
 </body>
 </html>
