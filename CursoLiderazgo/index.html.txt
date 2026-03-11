@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Curso: Líderes de Hoy</title>
+
+<style>
+
+body{
+font-family:Arial, Helvetica, sans-serif;
+margin:0;
+background:#f2f5fa;
+}
+
+/* HEADER */
+
+.header{
+background:linear-gradient(135deg,#2f6eb3,#1f4f82);
+color:white;
+padding:50px 20px;
+text-align:center;
+}
+
+.header h1{
+margin:0;
+font-size:36px;
+}
+
+.header p{
+margin-top:10px;
+font-size:18px;
+opacity:0.9;
+}
+
+/* CONTENEDOR */
+
+.container{
+max-width:1000px;
+margin:auto;
+padding:40px 20px;
+}
+
+/* BOTON CAMPUS */
+
+.campus-btn{
+display:inline-block;
+margin-bottom:30px;
+padding:10px 18px;
+background:#2f6eb3;
+color:white;
+text-decoration:none;
+border-radius:6px;
+font-weight:bold;
+}
+
+.campus-btn:hover{
+background:#1f4f82;
+}
+
+/* GRID */
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+gap:25px;
+}
+
+/* TARJETAS */
+
+.card{
+background:white;
+border-radius:10px;
+padding:25px;
+box-shadow:0 6px 16px rgba(0,0,0,0.1);
+transition:0.2s;
+}
+
+.card:hover{
+transform:translateY(-5px);
+}
+
+.card h2{
+margin-top:0;
+color:#1f4f82;
+}
+
+/* BOTON MODULO */
+
+.button{
+display:inline-block;
+margin-top:15px;
+padding:10px 18px;
+background:#1f4f82;
+color:white;
+text-decoration:none;
+border-radius:6px;
+font-weight:bold;
+}
+
+.button:hover{
+background:#16365a;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="header">
+<h1>Líderes de Hoy</h1>
+<p>Desarrollo de habilidades de liderazgo para equipos de trabajo</p>
+</div>
+
+<div class="container">
+
+<a class="campus-btn" href="../index.html">
+← Volver al portal de cursos
+</a>
+
+<div class="grid">
+
+<div class="card">
+<h2>Módulo 1</h2>
+<p>El rol del líder en los equipos actuales.</p>
+<a class="button" href="modulo1/index.html">Ingresar</a>
+</div>
+
+<div class="card">
+<h2>Módulo 2</h2>
+<p>Comunicación efectiva y liderazgo.</p>
+<a class="button" href="modulo2/index.html">Ingresar</a>
+</div>
+
+<div class="card">
+<h2>Módulo 3</h2>
+<p>Motivación y desarrollo del equipo.</p>
+<a class="button" href="modulo3/index.html">Ingresar</a>
+</div>
+
+<div class="card">
+<h2>Módulo 4</h2>
+<p>Toma de decisiones y gestión de conflictos.</p>
+<a class="button" href="modulo4/index.html">Ingresar</a>
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>
