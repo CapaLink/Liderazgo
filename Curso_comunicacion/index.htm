@@ -18,28 +18,30 @@ color:white;
 text-align:center;
 }
 
-/* CONTENEDOR */
-
 .container{
 background:white;
 color:#333;
 padding:60px;
 border-radius:12px;
 box-shadow:0 10px 25px rgba(0,0,0,0.2);
+max-width:500px;
 }
-
-/* TITULO */
 
 h1{
 margin-top:0;
 color:#1f4f82;
 }
 
-/* BOTON */
+.info{
+margin-top:10px;
+margin-bottom:25px;
+font-size:15px;
+color:#555;
+}
 
 .button{
-display:inline-block;
-margin-top:30px;
+display:block;
+margin:15px auto;
 padding:14px 28px;
 background:#1f4f82;
 color:white;
@@ -47,10 +49,27 @@ text-decoration:none;
 border-radius:8px;
 font-size:18px;
 font-weight:bold;
+width:80%;
 }
 
 .button:hover{
 background:#16365a;
+}
+
+.button-form{
+background:#3a8f3a;
+}
+
+.button-form:hover{
+background:#2d6f2d;
+}
+
+.button-back{
+background:#777;
+}
+
+.button-back:hover{
+background:#555;
 }
 
 </style>
@@ -62,10 +81,22 @@ background:#16365a;
 
 <h1>Curso de Comunicación</h1>
 
-<p>Desarrollá habilidades clave para una comunicación efectiva.</p>
+<p>Accedé al contenido del curso desde el botón inferior.</p>
+
+<p class="info">
+Una vez finalizado el curso, es necesario completar el formulario de evaluación.
+</p>
 
 <a class="button" href="comunicacion_para_ford">
 Ingresar al curso
+</a>
+
+<a class="button button-form" href="https://forms.gle/TUFORMULARIO" target="_blank">
+Completar formulario de evaluación
+</a>
+
+<a class="button button-back" href="Liderazgo">
+Volver al portal de cursos
 </a>
 
 </div>
