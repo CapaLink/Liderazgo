@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mp7c1s2v0gjdx"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mp7c1s2v0gjdx">
+    <organization identifier="eXe-mp7c1s2v0gjdx" structure="hierarchical">
+      <title>Negociacion</title>
+      <item identifier="ITEM-page-mp7bpq9c-3e1lby90u" identifierref="RES-page-mp7bpq9c-3e1lby90u" isvisible="true">
+        <title>Negociación</title>
+      </item>
+      <item identifier="ITEM-page-mp7bpq9c-ean65cce8" identifierref="RES-page-mp7bpq9c-ean65cce8" isvisible="true">
+        <title>Qué es la negociación</title>
+        <item identifier="ITEM-page-mp7bpq9c-pjtcumvyu" identifierref="RES-page-mp7bpq9c-pjtcumvyu" isvisible="true">
+          <title>El otro en la negociación</title>
+        </item>
+        <item identifier="ITEM-page-mp7bpq9c-3vba9u3m0" identifierref="RES-page-mp7bpq9c-3vba9u3m0" isvisible="true">
+          <title>Distintas formas de negociación</title>
+        </item>
+        <item identifier="ITEM-page-mp7bpq9c-h725q51zv" identifierref="RES-page-mp7bpq9c-h725q51zv" isvisible="true">
+          <title>Actividad</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mp7bpq9c-6vu4b3p46" identifierref="RES-page-mp7bpq9c-6vu4b3p46" isvisible="true">
+        <title>Los caminos de la negociación</title>
+        <item identifier="ITEM-page-mp7bpq9c-sz81tc7qi" identifierref="RES-page-mp7bpq9c-sz81tc7qi" isvisible="true">
+          <title>Las personas</title>
+        </item>
+        <item identifier="ITEM-page-mp7bpq9c-2u4idco4k" identifierref="RES-page-mp7bpq9c-2u4idco4k" isvisible="true">
+          <title>La estrategia</title>
+          <item identifier="ITEM-page-mp7bpq9c-r9ry6artr" identifierref="RES-page-mp7bpq9c-r9ry6artr" isvisible="true">
+            <title>Preparación Táctica</title>
+          </item>
+          <item identifier="ITEM-page-mp7bpq9c-lrra9k1mf" identifierref="RES-page-mp7bpq9c-lrra9k1mf" isvisible="true">
+            <title>Preparación Creativa</title>
+          </item>
+          <item identifier="ITEM-page-mp7bpq9c-a6epvm1wj" identifierref="RES-page-mp7bpq9c-a6epvm1wj" isvisible="true">
+            <title>Preparación personal</title>
+          </item>
+        </item>
+        <item identifier="ITEM-page-mp7bpq9c-mqt9e36zi" identifierref="RES-page-mp7bpq9c-mqt9e36zi" isvisible="true">
+          <title>Las técnicas</title>
+          <item identifier="ITEM-page-mp7bpq9c-wb4jgtgsh" identifierref="RES-page-mp7bpq9c-wb4jgtgsh" isvisible="true">
+            <title>1- Negociar intereses</title>
+          </item>
+          <item identifier="ITEM-page-mp7bpq9c-lc3kmp2od" identifierref="RES-page-mp7bpq9c-lc3kmp2od" isvisible="true">
+            <title>2- Generar acuerdos creativos</title>
+          </item>
+          <item identifier="ITEM-page-mp7bpq9c-rtyflihim" identifierref="RES-page-mp7bpq9c-rtyflihim" isvisible="true">
+            <title>3- Resolver conflictos</title>
+          </item>
+          <item identifier="ITEM-page-mp7bpq9c-aphx32d6c" identifierref="RES-page-mp7bpq9c-aphx32d6c" isvisible="true">
+            <title>4- Utilizar el MAPAN (mejor alternativa posible al acuerdo negociado)</title>
+          </item>
+          <item identifier="ITEM-page-mp7bpq9c-fnkdidx8y" identifierref="RES-page-mp7bpq9c-fnkdidx8y" isvisible="true">
+            <title>5- Articular propuestas</title>
+          </item>
+        </item>
+        <item identifier="ITEM-page-mp7bpq9c-y7qom3gtv" identifierref="RES-page-mp7bpq9c-y7qom3gtv" isvisible="true">
+          <title>Evaluación parcial</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mp7bpq9c-bv2mz1tpf" identifierref="RES-page-mp7bpq9c-bv2mz1tpf" isvisible="true">
+        <title>Negociar en la Sociedad del Conocimiento</title>
+      </item>
+      <item identifier="ITEM-page-mp7bpq9c-p8k74ty2h" identifierref="RES-page-mp7bpq9c-p8k74ty2h" isvisible="true">
+        <title>Saberes que todo negociador debe poseer</title>
+        <item identifier="ITEM-page-mp7bpq9c-kn8qgjqml" identifierref="RES-page-mp7bpq9c-kn8qgjqml" isvisible="true">
+          <title>Evaluación parcial</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mp7bpq9c-a4puryc6q" identifierref="RES-page-mp7bpq9c-a4puryc6q" isvisible="true">
+        <title>Para finalizar</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-mp7bpq9c-3e1lby90u" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-ean65cce8" type="webcontent" adlcp:scormtype="sco" href="html/que-es-la-negociacion.html">
+      <file href="html/que-es-la-negociacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-pjtcumvyu" type="webcontent" adlcp:scormtype="sco" href="html/el-otro-en-la-negociacion.html">
+      <file href="html/el-otro-en-la-negociacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-3vba9u3m0" type="webcontent" adlcp:scormtype="sco" href="html/distintas-formas-de-negociacion.html">
+      <file href="html/distintas-formas-de-negociacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-h725q51zv" type="webcontent" adlcp:scormtype="sco" href="html/actividad.html">
+      <file href="html/actividad.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-6vu4b3p46" type="webcontent" adlcp:scormtype="sco" href="html/los-caminos-de-la-negociacion.html">
+      <file href="html/los-caminos-de-la-negociacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-sz81tc7qi" type="webcontent" adlcp:scormtype="sco" href="html/las-personas.html">
+      <file href="html/las-personas.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-2u4idco4k" type="webcontent" adlcp:scormtype="sco" href="html/la-estrategia.html">
+      <file href="html/la-estrategia.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-r9ry6artr" type="webcontent" adlcp:scormtype="sco" href="html/preparacion-tactica.html">
+      <file href="html/preparacion-tactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-lrra9k1mf" type="webcontent" adlcp:scormtype="sco" href="html/preparacion-creativa.html">
+      <file href="html/preparacion-creativa.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-a6epvm1wj" type="webcontent" adlcp:scormtype="sco" href="html/preparacion-personal.html">
+      <file href="html/preparacion-personal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-mqt9e36zi" type="webcontent" adlcp:scormtype="sco" href="html/las-tecnicas.html">
+      <file href="html/las-tecnicas.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-wb4jgtgsh" type="webcontent" adlcp:scormtype="sco" href="html/1--negociar-intereses.html">
+      <file href="html/1--negociar-intereses.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-lc3kmp2od" type="webcontent" adlcp:scormtype="sco" href="html/2--generar-acuerdos-creativos.html">
+      <file href="html/2--generar-acuerdos-creativos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-rtyflihim" type="webcontent" adlcp:scormtype="sco" href="html/3--resolver-conflictos.html">
+      <file href="html/3--resolver-conflictos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-aphx32d6c" type="webcontent" adlcp:scormtype="sco" href="html/4--utilizar-el-mapan-mejor-alternativa-posible-al-.html">
+      <file href="html/4--utilizar-el-mapan-mejor-alternativa-posible-al-.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-fnkdidx8y" type="webcontent" adlcp:scormtype="sco" href="html/5--articular-propuestas.html">
+      <file href="html/5--articular-propuestas.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-y7qom3gtv" type="webcontent" adlcp:scormtype="sco" href="html/evaluacion-parcial.html">
+      <file href="html/evaluacion-parcial.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-bv2mz1tpf" type="webcontent" adlcp:scormtype="sco" href="html/negociar-en-la-sociedad-del-conocimiento.html">
+      <file href="html/negociar-en-la-sociedad-del-conocimiento.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-p8k74ty2h" type="webcontent" adlcp:scormtype="sco" href="html/saberes-que-todo-negociador-debe-poseer.html">
+      <file href="html/saberes-que-todo-negociador-debe-poseer.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-kn8qgjqml" type="webcontent" adlcp:scormtype="sco" href="html/evaluacion-parcial-2.html">
+      <file href="html/evaluacion-parcial-2.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mp7bpq9c-a4puryc6q" type="webcontent" adlcp:scormtype="sco" href="html/para-finalizar.html">
+      <file href="html/para-finalizar.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/img0.1.png"/>
+      <file href="content/resources/img0.2.png"/>
+      <file href="content/resources/img0.png"/>
+      <file href="idevices/form/exequexthits.svg"/>
+      <file href="idevices/form/exequextrerrors.svg"/>
+      <file href="idevices/form/exequextsq.svg"/>
+      <file href="idevices/form/form.css"/>
+      <file href="idevices/form/form.html"/>
+      <file href="idevices/form/form.js"/>
+      <file href="idevices/form/formnext.png"/>
+      <file href="idevices/form/formnextd.png"/>
+      <file href="idevices/form/formprevious.png"/>
+      <file href="idevices/form/formpreviousd.png"/>
+      <file href="idevices/form/frmhidesuggestion.png"/>
+      <file href="idevices/form/frmshowsuggestion.png"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/exe_effects/exe_effects.css"/>
+      <file href="libs/exe_effects/exe_effects.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objectives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>

@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260515165110IYFRMM</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260515165110MJWMD8</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Negociacion</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Silvia Bailman</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778874610314</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-3e1lby90u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Negociación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Negociación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-3e1lby90u</odePageId>
+      <odeBlockId>block-mp7bpq9c-cmu2rdxsa</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-3e1lby90u</odePageId>
+          <odeBlockId>block-mp7bpq9c-cmu2rdxsa</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-nzemznnil</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-3e1lby90u</odePageId>
+      <odeBlockId>block-mp7bpq9c-r8chjdsbu</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-3e1lby90u</odePageId>
+          <odeBlockId>block-mp7bpq9c-r8chjdsbu</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-0rlhr03xl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">Tal vez, la palabra negociación suene como un término empresarial y frío, sin embargo, nuestra vida es una negociación constante, que implica encontrar puntos intermedios entre lo que queremos y lo que los demás quieren o esperan.</span></p>
+<p><span style="font-size: 12pt;">Lo cierto es que, consciente o inconscientemente, todo el mundo negocia. De una forma deliberada o sin darse cuenta; empleando técnicas o de forma intuitiva: la negociación está presente en nuestras vidas, así como en el arte de vender.</span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">Tal vez, la palabra negociación suene como un término empresarial y frío, sin embargo, nuestra vida es una negociación constante, que implica encontrar puntos intermedios entre lo que queremos y lo que los demás quieren o esperan.</span></p>\n<p><span style=\"font-size: 12pt;\">Lo cierto es que, consciente o inconscientemente, todo el mundo negocia. De una forma deliberada o sin darse cuenta; empleando técnicas o de forma intuitiva: la negociación está presente en nuestras vidas, así como en el arte de vender.</span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-ean65cce8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Qué es la negociación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Qué es la negociación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-ean65cce8</odePageId>
+      <odeBlockId>block-mp7bpq9c-yucmsald9</odeBlockId>
+      <blockName>¿Qué es Negociar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-ean65cce8</odePageId>
+          <odeBlockId>block-mp7bpq9c-yucmsald9</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-oacvioenb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<ul>
+<li><span style="font-size: 12pt;">Es imposible no negociar;</span></li>
+<li><span style="font-size: 12pt;">Implica conseguir los objetivos;</span></li>
+<li><span style="font-size: 12pt;">Es tender puentes de diálogo;</span></li>
+<li><span style="font-size: 12pt;">Es interactuar con alguien.</span></li>
+</ul>
+<p style="text-align: center;"><span style="font-size: 12pt;">   <img src="asset://68e2f121-54c7-3e8e-232c-6b22ee30660c.png" width="912" height="500" alt="Negociacion" /></span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<ul>\n<li><span style=\"font-size: 12pt;\">Es imposible no negociar;</span></li>\n<li><span style=\"font-size: 12pt;\">Implica conseguir los objetivos;</span></li>\n<li><span style=\"font-size: 12pt;\">Es tender puentes de diálogo;</span></li>\n<li><span style=\"font-size: 12pt;\">Es interactuar con alguien.</span></li>\n</ul>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt;\">   <img src=\"asset://68e2f121-54c7-3e8e-232c-6b22ee30660c.png\" width=\"912\" height=\"500\" alt=\"Negociacion\" /></span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-pjtcumvyu</odePageId>
+  <odeParentPageId>page-mp7bpq9c-ean65cce8</odeParentPageId>
+  <pageName>El otro en la negociación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El otro en la negociación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-pjtcumvyu</odePageId>
+      <odeBlockId>block-mp7bpq9c-gpj7104dt</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-pjtcumvyu</odePageId>
+          <odeBlockId>block-mp7bpq9c-gpj7104dt</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-xkdrif0mw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 10pt;">Cuando negociamos, lo hacemos con alguien que también quiere conseguir determinados objetivos: si no los consigue, difícilmente cooperará para que podamos conseguir los nuestros. </span></p>
+<p><span style="font-size: 10pt;">Negociar es intercambiar, generar una pre-­ocupación, no solo por los intereses propios, sino también por los intereses de la otra parte.</span></p>
+<p><span style="font-size: 10pt;"></span></p>
+<h2><span style="font-size: 10pt;"><span style="background-color: #3366ff; color: #ffffff; font-size: 14pt;">¿Hay una manera más eficaz de negociar?</span></span></h2>
+<p><span style="font-size: 12pt;">La negociación es <strong>situacional</strong>. No hay fórmulas preestablecidas para negociar. La mejor forma es ir adaptándose a cada situación. </span></p>
+<p style="text-align: left;"><span style="font-size: 12pt;">El negociador debe cambiar su forma de negociar en función de las circunstancias en las que opere en un momento</span></p>
+<p><span style="font-size: 12pt;">determinado, debido a que es difícil que todas las negociaciones en las que participe sean exactamente de la misma índole.</span></p>
+<h2><span style="font-size: 10pt;"><br /> </span></h2>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 10pt;\">Cuando negociamos, lo hacemos con alguien que también quiere conseguir determinados objetivos: si no los consigue, difícilmente cooperará para que podamos conseguir los nuestros. </span></p>\n<p><span style=\"font-size: 10pt;\">Negociar es intercambiar, generar una pre-­ocupación, no solo por los intereses propios, sino también por los intereses de la otra parte.</span></p>\n<p><span style=\"font-size: 10pt;\"></span></p>\n<h2><span style=\"font-size: 10pt;\"><span style=\"background-color: #3366ff; color: #ffffff; font-size: 14pt;\">¿Hay una manera más eficaz de negociar?</span></span></h2>\n<p><span style=\"font-size: 12pt;\">La negociación es <strong>situacional</strong>. No hay fórmulas preestablecidas para negociar. La mejor forma es ir adaptándose a cada situación. </span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 12pt;\">El negociador debe cambiar su forma de negociar en función de las circunstancias en las que opere en un momento</span></p>\n<p><span style=\"font-size: 12pt;\">determinado, debido a que es difícil que todas las negociaciones en las que participe sean exactamente de la misma índole.</span></p>\n<h2><span style=\"font-size: 10pt;\"><br /> </span></h2>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-3vba9u3m0</odePageId>
+  <odeParentPageId>page-mp7bpq9c-ean65cce8</odeParentPageId>
+  <pageName>Distintas formas de negociación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Distintas formas de negociación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-3vba9u3m0</odePageId>
+      <odeBlockId>block-mp7bpq9c-uwt7xb49s</odeBlockId>
+      <blockName>Hacé click en la numeración o las flechas para ver las mismas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-3vba9u3m0</odePageId>
+          <odeBlockId>block-mp7bpq9c-uwt7xb49s</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-zy1dq2uvm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-fx exe-carousel">
+<h2>¿Cuándo negociar de forma competitiva?</h2>
+<ul>
+<li><span style="font-size: 10pt;">Cuando la negociación tiene lugar una vez y la relación futura no tiene por qué ser preservada. </span></li>
+<li><span style="font-size: 10pt;">Cuando se trata de negociaciones de carácter distributivo en donde unos ganan y otros pierden. </span></li>
+<li><span style="font-size: 10pt;">Cuando se puede justificar el uso de la competitividad cuando la otra parte tiene una actitud muy agresiva.</span></li>
+</ul>
+<h2>¿Cuándo negociar de forma colaborativa?</h2>
+<ul>
+<li><span style="font-size: 10pt;">Cuando además del resultado necesitamos mantener una excelente relación con la otra parte.</span></li>
+<li><span style="font-size: 10pt;">Cuando el estilo competitivo genera conflictos en las negociaciones internas de las organizaciones.</span></li>
+<li><span style="font-size: 10pt;">Cuando los beneficios de uno lo son también para el otro.</span></li>
+<li><span style="font-size: 10pt;">Cuando dos o más partes se necesitan mutuamente porque tienen finalidades idénticas: los mismos clientes, los mismos proveedores, etc.</span></li>
+</ul>
+<h2>¿Cuándo negociar de forma acomodativa?</h2>
+<ul>
+<li><span style="font-size: 10pt;">Cuando nos interesa dar prioridad a la relación por encima de cualquier resultado. Además, ceder a las necesidades del otro puede ser un acto de cortesía que favorezca las relaciones futuras. </span></li>
+<li><span style="font-size: 10pt;">Cuando estamos invirtiendo a largo plazo; una concesión hoy puede significar un éxito futuro. </span></li>
+<li><span style="font-size: 10pt;">Cuando es necesario, ante todo resolver una situación de conflicto</span></li>
+</ul>
+<h2>¿En qué circunstancias hay que evitar negociar?</h2>
+<ul>
+<li><span style="font-size: 10pt;">Cuando no estamos interesados en el resultado que se pueda derivar de la negociación ni en la relación con la otra parte. </span></li>
+<li><span style="font-size: 10pt;">Cuando ambas partes tienden más a perder que a ganar.</span></li>
+<li><span style="font-size: 10pt;">En situaciones de conflicto latente.</span></li>
+</ul>
+<h2><span style="font-size: 10pt;">¿Cuándo negociar a través del compromiso</span>?</h2>
+<ul>
+<li><span style="font-size: 10pt;">Este último estilo de negociación es un híbrido. Se trata de aplicar en situaciones en las cuales, tanto el resultado como la relación, nos interesan relativamente y podemos sacrificar parte de ambas para conseguir así un resultado que nos permita cerrar un trato.</span></li>
+</ul>
+</div>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<div class=\"exe-fx exe-carousel\">\n<h2>¿Cuándo negociar de forma competitiva?</h2>\n<ul>\n<li><span style=\"font-size: 10pt;\">Cuando la negociación tiene lugar una vez y la relación futura no tiene por qué ser preservada. </span></li>\n<li><span style=\"font-size: 10pt;\">Cuando se trata de negociaciones de carácter distributivo en donde unos ganan y otros pierden. </span></li>\n<li><span style=\"font-size: 10pt;\">Cuando se puede justificar el uso de la competitividad cuando la otra parte tiene una actitud muy agresiva.</span></li>\n</ul>\n<h2>¿Cuándo negociar de forma colaborativa?</h2>\n<ul>\n<li><span style=\"font-size: 10pt;\">Cuando además del resultado necesitamos mantener una excelente relación con la otra parte.</span></li>\n<li><span style=\"font-size: 10pt;\">Cuando el estilo competitivo genera conflictos en las negociaciones internas de las organizaciones.</span></li>\n<li><span style=\"font-size: 10pt;\">Cuando los beneficios de uno lo son también para el otro.</span></li>\n<li><span style=\"font-size: 10pt;\">Cuando dos o más partes se necesitan mutuamente porque tienen finalidades idénticas: los mismos clientes, los mismos proveedores, etc.</span></li>\n</ul>\n<h2>¿Cuándo negociar de forma acomodativa?</h2>\n<ul>\n<li><span style=\"font-size: 10pt;\">Cuando nos interesa dar prioridad a la relación por encima de cualquier resultado. Además, ceder a las necesidades del otro puede ser un acto de cortesía que favorezca las relaciones futuras. </span></li>\n<li><span style=\"font-size: 10pt;\">Cuando estamos invirtiendo a largo plazo; una concesión hoy puede significar un éxito futuro. </span></li>\n<li><span style=\"font-size: 10pt;\">Cuando es necesario, ante todo resolver una situación de conflicto</span></li>\n</ul>\n<h2>¿En qué circunstancias hay que evitar negociar?</h2>\n<ul>\n<li><span style=\"font-size: 10pt;\">Cuando no estamos interesados en el resultado que se pueda derivar de la negociación ni en la relación con la otra parte. </span></li>\n<li><span style=\"font-size: 10pt;\">Cuando ambas partes tienden más a perder que a ganar.</span></li>\n<li><span style=\"font-size: 10pt;\">En situaciones de conflicto latente.</span></li>\n</ul>\n<h2><span style=\"font-size: 10pt;\">¿Cuándo negociar a través del compromiso</span>?</h2>\n<ul>\n<li><span style=\"font-size: 10pt;\">Este último estilo de negociación es un híbrido. Se trata de aplicar en situaciones en las cuales, tanto el resultado como la relación, nos interesan relativamente y podemos sacrificar parte de ambas para conseguir así un resultado que nos permita cerrar un trato.</span></li>\n</ul>\n</div>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-3vba9u3m0</odePageId>
+      <odeBlockId>block-mp7bpq9c-4oniq6mqd</odeBlockId>
+      <blockName>Video explicativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-3vba9u3m0</odePageId>
+          <odeBlockId>block-mp7bpq9c-4oniq6mqd</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-uyvdp4bxa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: center;"><span style="font-size: 12pt;">Para ilustrar lo visto hasta el momento, te recomendamos recorrer el siguiente video,  en el que se exponen siete elementos estratégicos que te permitirán lograr una negociación efectiva. </span></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/QplLECQLUVs?si=KS0XW_MMjLfdjFI7" allowfullscreen="allowfullscreen"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 12pt;\">Para ilustrar lo visto hasta el momento, te recomendamos recorrer el siguiente video,  en el que se exponen siete elementos estratégicos que te permitirán lograr una negociación efectiva. </span></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QplLECQLUVs?si=KS0XW_MMjLfdjFI7\" allowfullscreen=\"allowfullscreen\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-h725q51zv</odePageId>
+  <odeParentPageId>page-mp7bpq9c-ean65cce8</odeParentPageId>
+  <pageName>Actividad</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-h725q51zv</odePageId>
+      <odeBlockId>block-mp7bpq9c-u9s8yreas</odeBlockId>
+      <blockName>Eleccion multiple</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-h725q51zv</odePageId>
+          <odeBlockId>block-mp7bpq9c-u9s8yreas</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-4rsrrl9nb</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"selection","selectionType":"single","baseText":"<p><span style=\"font-size: 12pt;\">Ante la siguiente situación ¿Qué alternativa vista anteriormente utilizarías? </span></p>","answers":[[false,"Competitiva","<p>No es recomendable utilizar este tipo de negociación, ya que se trata de una relación que debe preservarse. </p>"],[false,"Colaborativa","<p>Esta puede ser una buena opción, sin embargo, no se trata de un tipo de relación en la que el compromiso mutuo sea uno de sus aspectos. Es una relación comercial en la que las luchas internas son fuertes.</p>"],[false,"Acomodativa","<p>Esta opción no es acertada, ya que no prima la relación sobre el resultado, como podría ser la relación entre vecinos.</p>"],[false,"No negociar","<p>¿Te quedarás de brazos cruzados mientras aumentan tus expensas por un motivo que es injusto? Esta opción no es recomendable, y da pie a que se cometan más actos injustos por la otra parte.</p>"],[true,"A través del compromiso","<p>Tal vez, esta sea la opción más conveniente. No es recomendable negociar agresivamente, ya que la relación entre las partes debe cuidarse, pero tampoco podemos quedarnos de brazos cruzados ante una situación injusta. Se puede llegar a un acuerdo intermedio como, por ejemplo, que el consorcio se haga cargo de un 80 % del gasto y no del 50 %. Si, pasada esta instancia, el consorcio sigue firme en su decisión, se podrá elegir otra forma de negociación.</p>"]],"hint":"<p>Haciendo click sobre cada una podrás ver la respuesta</p>"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-6vu4b3p46</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Los caminos de la negociación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los caminos de la negociación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-6vu4b3p46</odePageId>
+      <odeBlockId>block-mp7bpq9c-3tf6lz8k9</odeBlockId>
+      <blockName>Las tres grandes vías</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-6vu4b3p46</odePageId>
+          <odeBlockId>block-mp7bpq9c-3tf6lz8k9</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-fl9docixm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><strong><span style="font-size: 12pt;">¿Qué aspectos se deben tener en cuenta?  </span></strong></p>
+<p><span style="font-size: 12pt;">El buen negociador es un experto caminante, que adapta su calzado y su equipaje a los cambios de los elementos del entorno.</span></p>
+<p><span style="font-size: 12pt;"></span></p>
+<p><span style="font-size: 12pt;"></span></p>
+<p><span style="font-size: 12pt;">Existen tres grandes vías que luego acaban conformando pequeñas sendas que conducen a objetivos <span style="font-size: 10pt;">(hacé click en cada uno para ver más)</span></span></p>
+<div class="exe-fx exe-accordion">
+<h2>Las personas</h2>
+<ul>
+<li>Gestión emocional</li>
+<li>Impacto e influencia</li>
+<li>Negociación intercultural</li>
+</ul>
+<h2>Las estrategias </h2>
+<ul>
+<li>Preparación táctica</li>
+<li>Preparación creativa</li>
+<li>Preparación personal</li>
+</ul>
+<h2>Las técnicas</h2>
+<ul>
+<li>Negociar intereses</li>
+<li>Generar acuerdos creativos</li>
+<li>Resolver conflictos</li>
+<li>Utilizar el MAPAN</li>
+<li>Articular propuestas</li>
+</ul>
+</div>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><strong><span style=\"font-size: 12pt;\">¿Qué aspectos se deben tener en cuenta?  </span></strong></p>\n<p><span style=\"font-size: 12pt;\">El buen negociador es un experto caminante, que adapta su calzado y su equipaje a los cambios de los elementos del entorno.</span></p>\n<p><span style=\"font-size: 12pt;\"></span></p>\n<p><span style=\"font-size: 12pt;\"></span></p>\n<p><span style=\"font-size: 12pt;\">Existen tres grandes vías que luego acaban conformando pequeñas sendas que conducen a objetivos <span style=\"font-size: 10pt;\">(hacé click en cada uno para ver más)</span></span></p>\n<div class=\"exe-fx exe-accordion\">\n<h2>Las personas</h2>\n<ul>\n<li>Gestión emocional</li>\n<li>Impacto e influencia</li>\n<li>Negociación intercultural</li>\n</ul>\n<h2>Las estrategias </h2>\n<ul>\n<li>Preparación táctica</li>\n<li>Preparación creativa</li>\n<li>Preparación personal</li>\n</ul>\n<h2>Las técnicas</h2>\n<ul>\n<li>Negociar intereses</li>\n<li>Generar acuerdos creativos</li>\n<li>Resolver conflictos</li>\n<li>Utilizar el MAPAN</li>\n<li>Articular propuestas</li>\n</ul>\n</div>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-sz81tc7qi</odePageId>
+  <odeParentPageId>page-mp7bpq9c-6vu4b3p46</odeParentPageId>
+  <pageName>Las personas</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Las personas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-sz81tc7qi</odePageId>
+      <odeBlockId>block-mp7bpq9c-xxbjguuba</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-sz81tc7qi</odePageId>
+          <odeBlockId>block-mp7bpq9c-xxbjguuba</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-zmypnb8l3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">La negociación sucede entre personas y no es posible negociar sin que aparezca alguna emoción o algún estado de ánimo. La vinculación entre la negociación y la, así llamada, inteligencia emocional (IE) es evidente. Entendemos por IE la capacidad para entender y controlar nuestras emociones. </span></p>
+<p><span style="font-size: 12pt;">Veamos aquellas técnicas que pueden ser usadas durante la negociación generando una acción positiva sobre la otra parte, a través del uso consciente de diversas estrategias de comunicación interpersonal.</span></p>
+<p><span style="font-size: 12pt;"></span></p>
+<div class="exe-fx exe-accordion">
+<h2>Inversión de roles</h2>
+<p><span style="font-size: 10pt;">Ponerse en el papel del otro permite comprender mejor los sentimientos y la actitud de la otra parte y facilita la comprensión mutua de intereses en la negociación.</span></p>
+<h2>Técnicas de gestión de las emociones</h2>
+<p><span style="font-size: 10pt;">Es importante aprender a sentir y reconocer las emociones que se vivieron en el pasado. Es importante recordar con exactitud cómo se sentía en esas condiciones. No se trata de anular las emociones, sino de actuar proactivamente sobre ellas.</span></p>
+<h2><span style="font-size: 10pt;">Comunicación no verbal (CNV)</span></h2>
+<p><span style="font-size: 10pt;">Acompañar la expresión verbal con distintos elementos de CNV que son importantes durante la negociación:</span></p>
+<ul>
+<li><span style="font-size: 10pt;">La mirada: mirar al rostro del interlocutor. No esconder la mirada. </span></li>
+<li><span style="font-size: 10pt;">La voz: transmitir seguridad.</span></li>
+<li><span style="font-size: 10pt;">Los gestos: actúan como reguladores o ilustradores del men­saje verbal. Gesticular añade sentido a lo que se dice­.</span></li>
+</ul>
+<h2>La escucha activa</h2>
+<p><span style="font-size: 10pt;">Para aumentar las facultades de escucha activa se debe aprender a tomar nota, reformular con sus palabras, preguntar, sincronizar con el ritmo del interlocutor y resumir las líneas generales de lo que se ha comentado.</span></p>
+<h2>La asertividad</h2>
+<p><span style="font-size: 10pt;">Puede definirse como la habilidad personal para pronunciar las palabras adecuadas, en el momento adecuado y de la forma adecuada. Consiste en defender los derechos de uno sin pasar por encima de los derechos de los demás.</span></p>
+</div>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">La negociación sucede entre personas y no es posible negociar sin que aparezca alguna emoción o algún estado de ánimo. La vinculación entre la negociación y la, así llamada, inteligencia emocional (IE) es evidente. Entendemos por IE la capacidad para entender y controlar nuestras emociones. </span></p>\n<p><span style=\"font-size: 12pt;\">Veamos aquellas técnicas que pueden ser usadas durante la negociación generando una acción positiva sobre la otra parte, a través del uso consciente de diversas estrategias de comunicación interpersonal.</span></p>\n<p><span style=\"font-size: 12pt;\"></span></p>\n<div class=\"exe-fx exe-accordion\">\n<h2>Inversión de roles</h2>\n<p><span style=\"font-size: 10pt;\">Ponerse en el papel del otro permite comprender mejor los sentimientos y la actitud de la otra parte y facilita la comprensión mutua de intereses en la negociación.</span></p>\n<h2>Técnicas de gestión de las emociones</h2>\n<p><span style=\"font-size: 10pt;\">Es importante aprender a sentir y reconocer las emociones que se vivieron en el pasado. Es importante recordar con exactitud cómo se sentía en esas condiciones. No se trata de anular las emociones, sino de actuar proactivamente sobre ellas.</span></p>\n<h2><span style=\"font-size: 10pt;\">Comunicación no verbal (CNV)</span></h2>\n<p><span style=\"font-size: 10pt;\">Acompañar la expresión verbal con distintos elementos de CNV que son importantes durante la negociación:</span></p>\n<ul>\n<li><span style=\"font-size: 10pt;\">La mirada: mirar al rostro del interlocutor. No esconder la mirada. </span></li>\n<li><span style=\"font-size: 10pt;\">La voz: transmitir seguridad.</span></li>\n<li><span style=\"font-size: 10pt;\">Los gestos: actúan como reguladores o ilustradores del men­saje verbal. Gesticular añade sentido a lo que se dice­.</span></li>\n</ul>\n<h2>La escucha activa</h2>\n<p><span style=\"font-size: 10pt;\">Para aumentar las facultades de escucha activa se debe aprender a tomar nota, reformular con sus palabras, preguntar, sincronizar con el ritmo del interlocutor y resumir las líneas generales de lo que se ha comentado.</span></p>\n<h2>La asertividad</h2>\n<p><span style=\"font-size: 10pt;\">Puede definirse como la habilidad personal para pronunciar las palabras adecuadas, en el momento adecuado y de la forma adecuada. Consiste en defender los derechos de uno sin pasar por encima de los derechos de los demás.</span></p>\n</div>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-2u4idco4k</odePageId>
+  <odeParentPageId>page-mp7bpq9c-6vu4b3p46</odeParentPageId>
+  <pageName>La estrategia</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La estrategia</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-2u4idco4k</odePageId>
+      <odeBlockId>block-mp7bpq9c-gulq0buey</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-2u4idco4k</odePageId>
+          <odeBlockId>block-mp7bpq9c-gulq0buey</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-5t0pzrwbx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">Llamamos <strong>estrategia </strong>a la capacidad de todo negociador para preparar el desarrollo de una negociación en función de la información previa de que disponga y  su habilidad para utilizarla en beneficio de la consecución de los objetivos fijados. Es importante convenir que una buena preparación es la base de una buena estrategia. </span></p>
+<p><span style="font-size: 12pt;"></span></p>
+<p><span style="font-size: 12pt;">Los tipos de preparación estratégica son:</span></p>
+<ul>
+<li><span style="font-size: 12pt;">Preparación táctica</span></li>
+<li><span style="font-size: 12pt;">Preparación creativa</span></li>
+<li><span style="font-size: 12pt;">Preparación persona</span></li>
+</ul>
+<p><span style="font-size: 12pt;"></span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">Llamamos <strong>estrategia </strong>a la capacidad de todo negociador para preparar el desarrollo de una negociación en función de la información previa de que disponga y  su habilidad para utilizarla en beneficio de la consecución de los objetivos fijados. Es importante convenir que una buena preparación es la base de una buena estrategia. </span></p>\n<p><span style=\"font-size: 12pt;\"></span></p>\n<p><span style=\"font-size: 12pt;\">Los tipos de preparación estratégica son:</span></p>\n<ul>\n<li><span style=\"font-size: 12pt;\">Preparación táctica</span></li>\n<li><span style=\"font-size: 12pt;\">Preparación creativa</span></li>\n<li><span style=\"font-size: 12pt;\">Preparación persona</span></li>\n</ul>\n<p><span style=\"font-size: 12pt;\"></span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-r9ry6artr</odePageId>
+  <odeParentPageId>page-mp7bpq9c-2u4idco4k</odeParentPageId>
+  <pageName>Preparación Táctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Preparación Táctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-r9ry6artr</odePageId>
+      <odeBlockId>block-mp7bpq9c-fzrrrojmi</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-r9ry6artr</odePageId>
+          <odeBlockId>block-mp7bpq9c-fzrrrojmi</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-xq5um7gu6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">La preparación táctica es la base de una buena negociación. Consiste en preparar de forma detallada una serie de aspectos que van a tener una influencia decisiva en el desarrollo del proceso de negociación. </span></p>
+<p><span style="font-size: 12pt;">Para lograr una buena preparación táctica, el modelo basado en la formulación sistemática de nueve preguntas puede ser de gran utilidad. Estas son:</span></p>
+<ul>
+<li><span style="font-size: 12pt;">¿Qué quiero?</span></li>
+<li><span style="font-size: 12pt;">¿Qué quieren ellos?</span></li>
+<li><span style="font-size: 12pt;">¿Qué estilo de negociación voy a utilizar?</span></li>
+<li><span style="font-size: 12pt;">¿Cuáles son mis asuntos negociables?</span></li>
+<li><span style="font-size: 12pt;">¿Qué prioridad les asigno?</span></li>
+<li><span style="font-size: 12pt;">¿Cuál es mi gama en cada asunto?</span></li>
+<li><span style="font-size: 12pt;">¿Cuáles son las opciones creativas más importantes?</span></li>
+<li><span style="font-size: 12pt;">¿Qué criterio/s u objetivo/s pueden ayudar a resolver conflictos?</span></li>
+<li><span style="font-size: 12pt;">¿Cuál es mi MAPAN (Mejor alternativa Posible al Acuerdo Negociado)? ¿Y el suyo?</span></li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">La preparación táctica es la base de una buena negociación. Consiste en preparar de forma detallada una serie de aspectos que van a tener una influencia decisiva en el desarrollo del proceso de negociación. </span></p>\n<p><span style=\"font-size: 12pt;\">Para lograr una buena preparación táctica, el modelo basado en la formulación sistemática de nueve preguntas puede ser de gran utilidad. Estas son:</span></p>\n<ul>\n<li><span style=\"font-size: 12pt;\">¿Qué quiero?</span></li>\n<li><span style=\"font-size: 12pt;\">¿Qué quieren ellos?</span></li>\n<li><span style=\"font-size: 12pt;\">¿Qué estilo de negociación voy a utilizar?</span></li>\n<li><span style=\"font-size: 12pt;\">¿Cuáles son mis asuntos negociables?</span></li>\n<li><span style=\"font-size: 12pt;\">¿Qué prioridad les asigno?</span></li>\n<li><span style=\"font-size: 12pt;\">¿Cuál es mi gama en cada asunto?</span></li>\n<li><span style=\"font-size: 12pt;\">¿Cuáles son las opciones creativas más importantes?</span></li>\n<li><span style=\"font-size: 12pt;\">¿Qué criterio/s u objetivo/s pueden ayudar a resolver conflictos?</span></li>\n<li><span style=\"font-size: 12pt;\">¿Cuál es mi MAPAN (Mejor alternativa Posible al Acuerdo Negociado)? ¿Y el suyo?</span></li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-lrra9k1mf</odePageId>
+  <odeParentPageId>page-mp7bpq9c-2u4idco4k</odeParentPageId>
+  <pageName>Preparación Creativa</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Preparación Creativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-lrra9k1mf</odePageId>
+      <odeBlockId>block-mp7bpq9c-mx897glrg</odeBlockId>
+      <blockName>Mapas Mentales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-lrra9k1mf</odePageId>
+          <odeBlockId>block-mp7bpq9c-mx897glrg</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-qe9mfug62</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 10pt;">Los mapas mentales constituyen una de las metodologías creativas más espectaculares desde el punto de vista gráfico y estético. Además de su utilidad creativa, estos mapas tienen otras funciones y aplicaciones interesantes: esquemas; resúmenes de temas complejos; herramientas de ayuda a la toma de decisiones; cuadros orientativos, etc. </span></p>
+<p><span style="font-size: 10pt;">¿Cómo se hacen? </span></p>
+<ol>
+<li><span style="font-size: 10pt;">Defina de forma clara el foco creativo. Una vez formulado, seleccione la palabra o concepto rector sobre el que se quiera trabajar.  Ejemplo: Quiero ideas para negociar mejor con el pintor de rojo.</span></li>
+<li><span style="font-size: 10pt;">Dibuje en el centro de la hoja la expresión clave “NEGOCIAR CON EL PINTOR DE ROJO”, en letras mayúsculas. </span></li>
+<li><span style="font-size: 10pt;">Busque los principios ordenadores que conforman la base para el desarrollo de ideas. Se recomienda un mínimo de tres y un máximo de siete.</span></li>
+<li><span style="font-size: 10pt;">A partir de estos principios ordenadores se va completando el mapa mental. Es importante dejar que la mente fluya libremente y que, de forma irradiante, vaya completando con total libertad el mapa mental.</span></li>
+<li><span style="font-size: 10pt;">Es importante que el mapa tenga una estructura equilibrada y armónica. Para ello, hay que respetar algunos detalles:</span>
+<ul style="list-style-type: disc;">
+<li><span style="font-size: 10pt;">Cada idea debe restringirse a una sola palabra; </span></li>
+<li><span style="font-size: 10pt;">Escribir cada palabra en letras de imprenta;</span></li>
+<li><span style="font-size: 10pt;">Utilizar distintos colores.</span></li>
+</ul>
+</li>
+<li><span style="font-size: 10pt;">Intente ramificar el mapa hasta el máximo.</span></li>
+</ol>
+<p><br /> <br /> </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 10pt;\">Los mapas mentales constituyen una de las metodologías creativas más espectaculares desde el punto de vista gráfico y estético. Además de su utilidad creativa, estos mapas tienen otras funciones y aplicaciones interesantes: esquemas; resúmenes de temas complejos; herramientas de ayuda a la toma de decisiones; cuadros orientativos, etc. </span></p>\n<p><span style=\"font-size: 10pt;\">¿Cómo se hacen? </span></p>\n<ol>\n<li><span style=\"font-size: 10pt;\">Defina de forma clara el foco creativo. Una vez formulado, seleccione la palabra o concepto rector sobre el que se quiera trabajar.  Ejemplo: Quiero ideas para negociar mejor con el pintor de rojo.</span></li>\n<li><span style=\"font-size: 10pt;\">Dibuje en el centro de la hoja la expresión clave “NEGOCIAR CON EL PINTOR DE ROJO”, en letras mayúsculas. </span></li>\n<li><span style=\"font-size: 10pt;\">Busque los principios ordenadores que conforman la base para el desarrollo de ideas. Se recomienda un mínimo de tres y un máximo de siete.</span></li>\n<li><span style=\"font-size: 10pt;\">A partir de estos principios ordenadores se va completando el mapa mental. Es importante dejar que la mente fluya libremente y que, de forma irradiante, vaya completando con total libertad el mapa mental.</span></li>\n<li><span style=\"font-size: 10pt;\">Es importante que el mapa tenga una estructura equilibrada y armónica. Para ello, hay que respetar algunos detalles:</span>\n<ul style=\"list-style-type: disc;\">\n<li><span style=\"font-size: 10pt;\">Cada idea debe restringirse a una sola palabra; </span></li>\n<li><span style=\"font-size: 10pt;\">Escribir cada palabra en letras de imprenta;</span></li>\n<li><span style=\"font-size: 10pt;\">Utilizar distintos colores.</span></li>\n</ul>\n</li>\n<li><span style=\"font-size: 10pt;\">Intente ramificar el mapa hasta el máximo.</span></li>\n</ol>\n<p><br /> <br /> </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-lrra9k1mf</odePageId>
+      <odeBlockId>block-mp7bpq9c-1j8ojvyba</odeBlockId>
+      <blockName>Brainstorming (lluvia de ideas)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-lrra9k1mf</odePageId>
+          <odeBlockId>block-mp7bpq9c-1j8ojvyba</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-4d63lnxwg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 10pt;">El  brainstorming consiste solamente en listar en una pizarra (o una hoja de papel, en su defecto) todas las ideas sugeridas por un grupo de personas (también individualmente) y escoger posteriormente la o las mejores. El  brainstorming fracasa, muchas veces, por que no se realiza respetando los requisitos básicos del pensamiento creativo: no enjuiciar ninguna idea hasta haber finalizado la fase de generación, utilizar el pensamiento lateral (no tener miedo a formular ideas o propuestas absurdas o alocadas) y generar muchas ideas (no conformarse con unas cuantas).</span></p>
+<p><span style="font-size: 10pt;">¿Cómo se realiza un  brainstorming aplicado a la negociación?</span></p>
+<ol>
+<li><span style="font-size: 10pt;">Escriba de forma visible el foco creativo.</span></li>
+<li><span style="font-size: 10pt;">A partir de esto, tratar de anotar cualquier idea que los par­ticipantes del  brainstorming tengan.</span></li>
+<li><span style="font-size: 10pt;">Una vez listadas todas las ideas,  trate de escoger las mejores. Es recomendable una primera selección de las cinco mejores ideas. A partir de ahí, liste los aspectos positivos y negativos de cada una de ellas.</span></li>
+<li><span style="font-size: 10pt;">Combine la acción de eliminar negatividades y reforzar positividades.</span></li>
+</ol>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 10pt;\">El  brainstorming consiste solamente en listar en una pizarra (o una hoja de papel, en su defecto) todas las ideas sugeridas por un grupo de personas (también individualmente) y escoger posteriormente la o las mejores. El  brainstorming fracasa, muchas veces, por que no se realiza respetando los requisitos básicos del pensamiento creativo: no enjuiciar ninguna idea hasta haber finalizado la fase de generación, utilizar el pensamiento lateral (no tener miedo a formular ideas o propuestas absurdas o alocadas) y generar muchas ideas (no conformarse con unas cuantas).</span></p>\n<p><span style=\"font-size: 10pt;\">¿Cómo se realiza un  brainstorming aplicado a la negociación?</span></p>\n<ol>\n<li><span style=\"font-size: 10pt;\">Escriba de forma visible el foco creativo.</span></li>\n<li><span style=\"font-size: 10pt;\">A partir de esto, tratar de anotar cualquier idea que los par­ticipantes del  brainstorming tengan.</span></li>\n<li><span style=\"font-size: 10pt;\">Una vez listadas todas las ideas,  trate de escoger las mejores. Es recomendable una primera selección de las cinco mejores ideas. A partir de ahí, liste los aspectos positivos y negativos de cada una de ellas.</span></li>\n<li><span style=\"font-size: 10pt;\">Combine la acción de eliminar negatividades y reforzar positividades.</span></li>\n</ol>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-lrra9k1mf</odePageId>
+      <odeBlockId>block-mp7bpq9c-abl5pthxq</odeBlockId>
+      <blockName>Máscaras</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-lrra9k1mf</odePageId>
+          <odeBlockId>block-mp7bpq9c-abl5pthxq</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-68eqt42e7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 10pt;">El concepto de máscara está vinculado a que, en creatividad, siempre se trata de acceder a aspectos ocultos y difícilmente visibles de la realidad y estos, a veces están ocultos. Si les libramos de la máscara que los oculta o ensombrece, estos  pueden quedar al descubierto de una forma mágica y sorprendente y ser un gran aporte. </span></p>
+<p><span style="font-size: 10pt;">¿Cómo se pone en ejercicio “las máscaras”? </span></p>
+<ol>
+<li><span style="font-size: 10pt;">Defina de forma clara el problema y conviértalo en un foco creativo. Una vez definido, encuentre el término o palabra clave de este. A continuación, se deben buscar asunciones básicas respecto a la palabra o expresión central. Se entiende por asunción cualquier afirmación fundamental sobre las características de producto, objeto, servicio, etc.</span></li>
+<li><span style="font-size: 10pt;">Trabaje con cinco u ocho asunciones.</span></li>
+<li><span style="font-size: 10pt;">Trate de despojar de su máscara a las inversiones.</span></li>
+</ol>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 10pt;\">El concepto de máscara está vinculado a que, en creatividad, siempre se trata de acceder a aspectos ocultos y difícilmente visibles de la realidad y estos, a veces están ocultos. Si les libramos de la máscara que los oculta o ensombrece, estos  pueden quedar al descubierto de una forma mágica y sorprendente y ser un gran aporte. </span></p>\n<p><span style=\"font-size: 10pt;\">¿Cómo se pone en ejercicio “las máscaras”? </span></p>\n<ol>\n<li><span style=\"font-size: 10pt;\">Defina de forma clara el problema y conviértalo en un foco creativo. Una vez definido, encuentre el término o palabra clave de este. A continuación, se deben buscar asunciones básicas respecto a la palabra o expresión central. Se entiende por asunción cualquier afirmación fundamental sobre las características de producto, objeto, servicio, etc.</span></li>\n<li><span style=\"font-size: 10pt;\">Trabaje con cinco u ocho asunciones.</span></li>\n<li><span style=\"font-size: 10pt;\">Trate de despojar de su máscara a las inversiones.</span></li>\n</ol>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-a6epvm1wj</odePageId>
+  <odeParentPageId>page-mp7bpq9c-2u4idco4k</odeParentPageId>
+  <pageName>Preparación personal</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Preparación personal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-a6epvm1wj</odePageId>
+      <odeBlockId>block-mp7bpq9c-v21yf77kp</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-a6epvm1wj</odePageId>
+          <odeBlockId>block-mp7bpq9c-v21yf77kp</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-oum4vtxxa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">Un negociador puede efectuar una excelente preparación táctica y creativa, y aún así sentirse inseguro. Lo que él percibe tiene una influencia enorme en su conducta, y por ende, en la conducta de los demás para con él. </span></p>
+<p><span style="font-size: 12pt;">Existen dos técnicas que pueden ayudar:</span></p>
+<p><span style="font-size: 12pt;"></span></p>
+<div class="exe-fx exe-tabs">
+<h2><strong>Conversación interior</strong></h2>
+<p><span style="font-size: 10pt;">Hablar con uno mismo elimina los miedos que pueden aparecer en el interior y cambiarlos por sensaciones positivas.</span></p>
+<h2><strong>Escenario positivo</strong></h2>
+<p><span style="font-size: 10pt;">Visualizar creativamente el momento de la negociación e imaginar que este finaliza con un resultado positivo.</span></p>
+</div>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">Un negociador puede efectuar una excelente preparación táctica y creativa, y aún así sentirse inseguro. Lo que él percibe tiene una influencia enorme en su conducta, y por ende, en la conducta de los demás para con él. </span></p>\n<p><span style=\"font-size: 12pt;\">Existen dos técnicas que pueden ayudar:</span></p>\n<p><span style=\"font-size: 12pt;\"></span></p>\n<div class=\"exe-fx exe-tabs\">\n<h2><strong>Conversación interior</strong></h2>\n<p><span style=\"font-size: 10pt;\">Hablar con uno mismo elimina los miedos que pueden aparecer en el interior y cambiarlos por sensaciones positivas.</span></p>\n<h2><strong>Escenario positivo</strong></h2>\n<p><span style=\"font-size: 10pt;\">Visualizar creativamente el momento de la negociación e imaginar que este finaliza con un resultado positivo.</span></p>\n</div>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-mqt9e36zi</odePageId>
+  <odeParentPageId>page-mp7bpq9c-6vu4b3p46</odeParentPageId>
+  <pageName>Las técnicas</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Las técnicas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-mqt9e36zi</odePageId>
+      <odeBlockId>block-mp7bpq9c-hwieqo4qn</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-mqt9e36zi</odePageId>
+          <odeBlockId>block-mp7bpq9c-hwieqo4qn</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-m3pgy2a5h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">En este apartado veremos un conjunto de técnicas que permiten un mayor control y comprensión de los mecanismos que intervienen en las negociaciones humanas, a saber:</span></p>
+<ol>
+<li><span style="font-size: 12pt;">Negociar intereses;</span></li>
+<li><span style="font-size: 12pt;">Generar acuerdos creativos;</span></li>
+<li><span style="font-size: 12pt;">Resolver conflictos;</span></li>
+<li><span style="font-size: 12pt;">Utilizar el MAPAN (Mejor alternativa Posible al Acuerdo Negociado);</span></li>
+<li><span style="font-size: 12pt;">Articular propuestas.</span></li>
+</ol>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">En este apartado veremos un conjunto de técnicas que permiten un mayor control y comprensión de los mecanismos que intervienen en las negociaciones humanas, a saber:</span></p>\n<ol>\n<li><span style=\"font-size: 12pt;\">Negociar intereses;</span></li>\n<li><span style=\"font-size: 12pt;\">Generar acuerdos creativos;</span></li>\n<li><span style=\"font-size: 12pt;\">Resolver conflictos;</span></li>\n<li><span style=\"font-size: 12pt;\">Utilizar el MAPAN (Mejor alternativa Posible al Acuerdo Negociado);</span></li>\n<li><span style=\"font-size: 12pt;\">Articular propuestas.</span></li>\n</ol>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-wb4jgtgsh</odePageId>
+  <odeParentPageId>page-mp7bpq9c-mqt9e36zi</odeParentPageId>
+  <pageName>1- Negociar intereses</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1- Negociar intereses</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-wb4jgtgsh</odePageId>
+      <odeBlockId>block-mp7bpq9c-xxy5hwon7</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-wb4jgtgsh</odePageId>
+          <odeBlockId>block-mp7bpq9c-xxy5hwon7</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9c-jzzgcs6o0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">Los intereses son cualquier aspecto que un negociador quiere obtener directa o indirectamente de su negociación. Algunas veces, hay intereses ocultos que no son percibidos directamente y que solo se hacen conscientes a través de un proceso de estudio recíproco. Las preguntas cumplen la función de detectar los intereses de la otra parte, para luego combinarlos con los propios para tejer acuerdos provechosos.</span></p>
+<p><span style="font-size: 12pt;"></span></p>
+<p><span style="font-size: 12pt;"><span style="text-decoration: underline;"><span style="font-size: 14pt;">Tipos de preguntas</span></span><br /> </span></p>
+<div class="exe-fx exe-carousel">
+<h2>Creativas</h2>
+<p><span style="font-size: 10pt;">¿Ha pensado en la posibilidad de hacer…? </span><br /><span style="font-size: 10pt;">¿Le parece que exploremos más posibilidades?</span></p>
+<h2>Recalificadoras de asunciones</h2>
+<p><span style="font-size: 10pt;">“No puedo asumir ese precio. Es demasiado caro para mí”.</span><br /><span style="font-size: 10pt;"> ¿Qué pasaría si lo asumiera? ¿Se enfadaría alguien?</span></p>
+<h2><span style="font-size: 10pt;">De Feedback</span></h2>
+<p><span style="font-size: 10pt;">¿Cómo lo ve usted? <br />¿Cuál es su punto de vista, su opinión?</span></p>
+<h2>Condicionales</h2>
+<p><span style="font-size: 10pt;">¿Estaría de acuerdo en cerrar el trato así? </span></p>
+<h2>De compromiso o cierre</h2>
+<p><span style="font-size: 10pt;">¿Le parece que podemos acordar…? </span><br /><span style="font-size: 10pt;">¿Estamos de acuerdo entonces en…? </span></p>
+<h2>De precisión</h2>
+<p><span style="font-size: 10pt;">¿Qué tipo concreto de descuento quisiera que le aplicáramos? </span><br /><span style="font-size: 10pt;">¿Qué es para usted lealtad?</span></p>
+<h2>Abiertas</h2>
+<p><span style="font-size: 10pt;">Qué, quién, por qué, cómo, dónde, cuándo. </span></p>
+</div>
+<p><span style="font-size: 12pt;"><br /> </span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">Los intereses son cualquier aspecto que un negociador quiere obtener directa o indirectamente de su negociación. Algunas veces, hay intereses ocultos que no son percibidos directamente y que solo se hacen conscientes a través de un proceso de estudio recíproco. Las preguntas cumplen la función de detectar los intereses de la otra parte, para luego combinarlos con los propios para tejer acuerdos provechosos.</span></p>\n<p><span style=\"font-size: 12pt;\"></span></p>\n<p><span style=\"font-size: 12pt;\"><span style=\"text-decoration: underline;\"><span style=\"font-size: 14pt;\">Tipos de preguntas</span></span><br /> </span></p>\n<div class=\"exe-fx exe-carousel\">\n<h2>Creativas</h2>\n<p><span style=\"font-size: 10pt;\">¿Ha pensado en la posibilidad de hacer…? </span><br /><span style=\"font-size: 10pt;\">¿Le parece que exploremos más posibilidades?</span></p>\n<h2>Recalificadoras de asunciones</h2>\n<p><span style=\"font-size: 10pt;\">“No puedo asumir ese precio. Es demasiado caro para mí”.</span><br /><span style=\"font-size: 10pt;\"> ¿Qué pasaría si lo asumiera? ¿Se enfadaría alguien?</span></p>\n<h2><span style=\"font-size: 10pt;\">De Feedback</span></h2>\n<p><span style=\"font-size: 10pt;\">¿Cómo lo ve usted? <br />¿Cuál es su punto de vista, su opinión?</span></p>\n<h2>Condicionales</h2>\n<p><span style=\"font-size: 10pt;\">¿Estaría de acuerdo en cerrar el trato así? </span></p>\n<h2>De compromiso o cierre</h2>\n<p><span style=\"font-size: 10pt;\">¿Le parece que podemos acordar…? </span><br /><span style=\"font-size: 10pt;\">¿Estamos de acuerdo entonces en…? </span></p>\n<h2>De precisión</h2>\n<p><span style=\"font-size: 10pt;\">¿Qué tipo concreto de descuento quisiera que le aplicáramos? </span><br /><span style=\"font-size: 10pt;\">¿Qué es para usted lealtad?</span></p>\n<h2>Abiertas</h2>\n<p><span style=\"font-size: 10pt;\">Qué, quién, por qué, cómo, dónde, cuándo. </span></p>\n</div>\n<p><span style=\"font-size: 12pt;\"><br /> </span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-lc3kmp2od</odePageId>
+  <odeParentPageId>page-mp7bpq9c-mqt9e36zi</odeParentPageId>
+  <pageName>2- Generar acuerdos creativos</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2- Generar acuerdos creativos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-lc3kmp2od</odePageId>
+      <odeBlockId>block-mp7bpq9d-qwtoj8nhg</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-lc3kmp2od</odePageId>
+          <odeBlockId>block-mp7bpq9d-qwtoj8nhg</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-2czc1n2as</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">Tres herramientas de pensamiento creativo pueden ayudar a generar opciones para utilizar en una negociación: </span></p>
+<ul>
+<li><span style="font-size: 12pt;">los mapas mentales, </span></li>
+<li><span style="font-size: 12pt;">el  brainstorming</span></li>
+<li><span style="font-size: 12pt;">las máscaras. </span></li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">Tres herramientas de pensamiento creativo pueden ayudar a generar opciones para utilizar en una negociación: </span></p>\n<ul>\n<li><span style=\"font-size: 12pt;\">los mapas mentales, </span></li>\n<li><span style=\"font-size: 12pt;\">el  brainstorming</span></li>\n<li><span style=\"font-size: 12pt;\">las máscaras. </span></li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-rtyflihim</odePageId>
+  <odeParentPageId>page-mp7bpq9c-mqt9e36zi</odeParentPageId>
+  <pageName>3- Resolver conflictos</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3- Resolver conflictos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-rtyflihim</odePageId>
+      <odeBlockId>block-mp7bpq9d-yaneui2ag</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-rtyflihim</odePageId>
+          <odeBlockId>block-mp7bpq9d-yaneui2ag</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-bmpsd0uqd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<ul>
+<li><span style="font-size: 12pt;">Controlar las emociones, frenar las reacciones y centrarse en los intereses. </span></li>
+<li><span style="font-size: 12pt;">Permitir que el oponente se anote una pequeña victoria. </span></li>
+<li><span style="font-size: 12pt;">Olvidar la palabra «culpa» y sustituirla por «solución».</span></li>
+<li><span style="font-size: 12pt;">Intentar llegar a un acuerdo viable.</span></li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<ul>\n<li><span style=\"font-size: 12pt;\">Controlar las emociones, frenar las reacciones y centrarse en los intereses. </span></li>\n<li><span style=\"font-size: 12pt;\">Permitir que el oponente se anote una pequeña victoria. </span></li>\n<li><span style=\"font-size: 12pt;\">Olvidar la palabra «culpa» y sustituirla por «solución».</span></li>\n<li><span style=\"font-size: 12pt;\">Intentar llegar a un acuerdo viable.</span></li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-aphx32d6c</odePageId>
+  <odeParentPageId>page-mp7bpq9c-mqt9e36zi</odeParentPageId>
+  <pageName>4- Utilizar el MAPAN (mejor alternativa posible al acuerdo negociado)</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4- Utilizar el MAPAN (mejor alternativa posible al acuerdo negociado)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-aphx32d6c</odePageId>
+      <odeBlockId>block-mp7bpq9d-2zatzn2e6</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-aphx32d6c</odePageId>
+          <odeBlockId>block-mp7bpq9d-2zatzn2e6</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-6dsd93mo5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">El objetivo de esta técnica es disponer de un soporte de alternativas en caso que el acuerdo no esté resultando como se esperaba. Es fundamental que la contraparte no interprete que el negociador está apurado (hay que manejar las emociones y ansiedad) o que no posee alternativas. La contraparte, en ese caso, podría contrarrestar cada una de las establecidas en la elaboración del MAPAN. </span></p>
+<p><span style="font-size: 12pt;"></span></p>
+<p><span style="font-size: 12pt;">El valor de conocer la mejor alternativa a un acuerdo negociado es que:</span></p>
+<p><span style="font-size: 12pt;"></span></p>
+<ul>
+<li><span style="font-size: 12pt;">Proporciona una alternativa por si las negociaciones fracasan.</span></li>
+<li><span style="font-size: 12pt;">Mejora el poder de negociación.</span></li>
+<li><span style="font-size: 12pt;">Determina el peor precio que se está dispuesto a aceptar.<br /> <br /> <img src="asset://e016c1a1-e2a7-0729-f081-bb1b0139ce40.png" width="600" height="88" alt="mapan" /></span></li>
+</ul>
+<p><span style="font-size: 12pt;">Cuanto mayor sea el MAPAN, más poder se tendrá en la negociación. Contrariamente, cuanto mayor sea el MAPAN del adversario, menos poder se tendrá. </span></p>
+<p><span style="font-size: 12pt;">Para conocer el proceso para encontrar la mejor alternativa a un acuerdo negociado, desarrollado por la Facultad de Derecho de Harvard, te invitamos a leer lo siguiente:</span></p>
+<p style="text-align: center;"></p>
+<table border="1" style="width: 75.8772%;" height="171">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<p style="text-align: center;">MAPAN: la negociación según Harvard</p>
+<p>   La Facultad de Derecho de Harvard ha desarrollado un proceso para encontrar la mejor alternativa a un acuerdo negociado.</p>
+<p>    Se resume en los siguientes pasos:</p>
+<ul>
+<li>Enumerar todas las alternativas a la negociación a la que uno va a enfrentarse: ¿qué podría hacerse si las negociaciones fracasasen?</li>
+<li>Evaluar el valor de cada alternativa: ¿cuánto vale cada alternativa para mí?</li>
+<li>Seleccionar la alternativa que proporcionaría el mayor valor (esa es la mejor alternativa a un acuerdo negociado).</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">El objetivo de esta técnica es disponer de un soporte de alternativas en caso que el acuerdo no esté resultando como se esperaba. Es fundamental que la contraparte no interprete que el negociador está apurado (hay que manejar las emociones y ansiedad) o que no posee alternativas. La contraparte, en ese caso, podría contrarrestar cada una de las establecidas en la elaboración del MAPAN. </span></p>\n<p><span style=\"font-size: 12pt;\"></span></p>\n<p><span style=\"font-size: 12pt;\">El valor de conocer la mejor alternativa a un acuerdo negociado es que:</span></p>\n<p><span style=\"font-size: 12pt;\"></span></p>\n<ul>\n<li><span style=\"font-size: 12pt;\">Proporciona una alternativa por si las negociaciones fracasan.</span></li>\n<li><span style=\"font-size: 12pt;\">Mejora el poder de negociación.</span></li>\n<li><span style=\"font-size: 12pt;\">Determina el peor precio que se está dispuesto a aceptar.<br /> <br /> <img src=\"asset://e016c1a1-e2a7-0729-f081-bb1b0139ce40.png\" width=\"600\" height=\"88\" alt=\"mapan\" /></span></li>\n</ul>\n<p><span style=\"font-size: 12pt;\">Cuanto mayor sea el MAPAN, más poder se tendrá en la negociación. Contrariamente, cuanto mayor sea el MAPAN del adversario, menos poder se tendrá. </span></p>\n<p><span style=\"font-size: 12pt;\">Para conocer el proceso para encontrar la mejor alternativa a un acuerdo negociado, desarrollado por la Facultad de Derecho de Harvard, te invitamos a leer lo siguiente:</span></p>\n<p style=\"text-align: center;\"></p>\n<table border=\"1\" style=\"width: 75.8772%;\" height=\"171\">\n<tbody>\n<tr>\n<td style=\"width: 100%;\">\n<p style=\"text-align: center;\">MAPAN: la negociación según Harvard</p>\n<p>   La Facultad de Derecho de Harvard ha desarrollado un proceso para encontrar la mejor alternativa a un acuerdo negociado.</p>\n<p>    Se resume en los siguientes pasos:</p>\n<ul>\n<li>Enumerar todas las alternativas a la negociación a la que uno va a enfrentarse: ¿qué podría hacerse si las negociaciones fracasasen?</li>\n<li>Evaluar el valor de cada alternativa: ¿cuánto vale cada alternativa para mí?</li>\n<li>Seleccionar la alternativa que proporcionaría el mayor valor (esa es la mejor alternativa a un acuerdo negociado).</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\"></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-fnkdidx8y</odePageId>
+  <odeParentPageId>page-mp7bpq9c-mqt9e36zi</odeParentPageId>
+  <pageName>5- Articular propuestas</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5- Articular propuestas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-fnkdidx8y</odePageId>
+      <odeBlockId>block-mp7bpq9d-rzcrprb0m</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-fnkdidx8y</odePageId>
+          <odeBlockId>block-mp7bpq9d-rzcrprb0m</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-tomx3iff0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">Consiste en articular propuestas alrededor de nuestros intereses y los intereses de la otra parte. Dicho de otra forma, una propuesta es el resultado de la transacción justa entre lo que yo quiero (condición) y lo que la otra parte quiere (oferta). </span></p>
+<p><span style="font-size: 12pt;">El arte y la técnica de concretar propuestas operativas, equilibradas e inteligentes se traduce en resultados. La pericia y el buen hacer de un negociador proporciona la satisfacción de haber encontrado el camino. </span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">Consiste en articular propuestas alrededor de nuestros intereses y los intereses de la otra parte. Dicho de otra forma, una propuesta es el resultado de la transacción justa entre lo que yo quiero (condición) y lo que la otra parte quiere (oferta). </span></p>\n<p><span style=\"font-size: 12pt;\">El arte y la técnica de concretar propuestas operativas, equilibradas e inteligentes se traduce en resultados. La pericia y el buen hacer de un negociador proporciona la satisfacción de haber encontrado el camino. </span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-y7qom3gtv</odePageId>
+  <odeParentPageId>page-mp7bpq9c-6vu4b3p46</odeParentPageId>
+  <pageName>Evaluación parcial</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación parcial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-y7qom3gtv</odePageId>
+      <odeBlockId>block-mp7bpq9d-67k77l490</odeBlockId>
+      <blockName>Autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-y7qom3gtv</odePageId>
+          <odeBlockId>block-mp7bpq9d-67k77l490</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-kjur3x812</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Te invitamos a realizar la siguiente evaluación. El resultado de la misma no influirá en tu Evaluación Final ni la aprobación del curso</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Te invitamos a realizar la siguiente evaluación. El resultado de la misma no influirá en tu Evaluación Final ni la aprobación del curso</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-y7qom3gtv</odePageId>
+      <odeBlockId>block-mp7bpq9d-5pblkmogw</odeBlockId>
+      <blockName>Sobre Estrategias y Técnicas</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-y7qom3gtv</odePageId>
+          <odeBlockId>block-mp7bpq9d-5pblkmogw</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-fsgj046p5</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"selection","selectionType":"multiple","baseText":"<p>Indique cuáles de las siguientes opciones corresponden a algunas de las técnicas que se pueden utilizar en una negociación:</p>","answers":[[false,"Utilizar el MAPAN."],[false,"Negociar intereses."],[false,"Articular propuestas."],[true,"Todas las opciones son correctas."]]},{"activityType":"selection","selectionType":"multiple","baseText":"<p>Es la capacidad de todo negociador para preparar el desarrollo de una negociación en función de la información previa de que disponga y  su habilidad para utilizarla en beneficio de la consecución de los objetivos fijados, ¿a qué concepto corresponde esta definición?</p>","answers":[[false,"Técnicas"],[false,"Plan de acción."],[true,"Estrategias"]]},{"activityType":"selection","selectionType":"multiple","baseText":"<p>Indique cuáles de las siguientes opciones corresponden a distintos tipos de negociación:</p>","answers":[[false,"Negociación colaborativa."],[false,"Negociación competitiva."],[false,"Negociación acomodativa."],[true,"Todas las opciones son correctas."]]},{"activityType":"selection","selectionType":"multiple","baseText":"<p>¿Qué es negociar?</p>","answers":[[false,"Ocuparnos de cumplir nuestros objetivos."],[false,"Presentar nuestros objetivos a la otra parte."],[true,"Intercambiar nuestros objetivos con la otra parte."]]},{"activityType":"selection","selectionType":"multiple","baseText":"<p>Indique cuáles de las siguientes opciones corresponden a los caminos de la negociación:</p>","answers":[[false,"Las personas, las técnicas y los objetivos."],[false,"Las personas, las estrategias y el plan de acción."],[true,"Las personas, las estrategias y las técnicas."]]}]}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-bv2mz1tpf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Negociar en la Sociedad del Conocimiento</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Negociar en la Sociedad del Conocimiento</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-bv2mz1tpf</odePageId>
+      <odeBlockId>block-mp7bpq9d-7015z19sd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-bv2mz1tpf</odePageId>
+          <odeBlockId>block-mp7bpq9d-7015z19sd</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-g5d1xm57t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">Vivimos un tiempo de grandes cambios que hace que los escenarios de negociación y los medios que se utilizan en esta dejen de ser los tradicionales. Las nuevas condiciones exigen nuevos conocimientos y aptitudes. El manejo de internet y los múltiples espacios que se abren son un aspecto decisivo que todo negociador debe considerar. </span></p>
+<p><span style="font-size: 12pt;"></span></p>
+<p><span style="font-size: 12pt;"><img src="asset://4567aa12-83e3-787d-0231-b365961dba7e.png" width="667" height="353" alt="negociar en la sociedad" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">Vivimos un tiempo de grandes cambios que hace que los escenarios de negociación y los medios que se utilizan en esta dejen de ser los tradicionales. Las nuevas condiciones exigen nuevos conocimientos y aptitudes. El manejo de internet y los múltiples espacios que se abren son un aspecto decisivo que todo negociador debe considerar. </span></p>\n<p><span style=\"font-size: 12pt;\"></span></p>\n<p><span style=\"font-size: 12pt;\"><img src=\"asset://4567aa12-83e3-787d-0231-b365961dba7e.png\" width=\"667\" height=\"353\" alt=\"negociar en la sociedad\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-p8k74ty2h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Saberes que todo negociador debe poseer</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Saberes que todo negociador debe poseer</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-p8k74ty2h</odePageId>
+      <odeBlockId>block-mp7bpq9d-1aq8o9c6e</odeBlockId>
+      <blockName>Saber negociar en entornos virtuales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-p8k74ty2h</odePageId>
+          <odeBlockId>block-mp7bpq9d-1aq8o9c6e</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-k16ely0pl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">La innovación tecnológica posibilita que se pueda negociar a distancia, a través de correo electrónico, webcams en tiempo real con gestos, movimientos, reacciones, etc. Para negociar adecuadamente en entornos virtuales, es importante dominar a la perfección el medio en el que actuamos.</span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">La innovación tecnológica posibilita que se pueda negociar a distancia, a través de correo electrónico, webcams en tiempo real con gestos, movimientos, reacciones, etc. Para negociar adecuadamente en entornos virtuales, es importante dominar a la perfección el medio en el que actuamos.</span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-p8k74ty2h</odePageId>
+      <odeBlockId>block-mp7bpq9d-xkmt8luue</odeBlockId>
+      <blockName>Saber negociar en equipo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-p8k74ty2h</odePageId>
+          <odeBlockId>block-mp7bpq9d-xkmt8luue</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-m4g9g772j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">Permite y facilita los juegos de manipulación, tomar decisiones en equipo es mucho más complejo, por lo tanto, es recomendable no precipitarse (en especial el líder) a decidir nada, sin contar con la aprobación de los demás integrantes. Es importante establecer una distribu­ción de roles dentro del equipo.</span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">Permite y facilita los juegos de manipulación, tomar decisiones en equipo es mucho más complejo, por lo tanto, es recomendable no precipitarse (en especial el líder) a decidir nada, sin contar con la aprobación de los demás integrantes. Es importante establecer una distribu­ción de roles dentro del equipo.</span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-p8k74ty2h</odePageId>
+      <odeBlockId>block-mp7bpq9d-t5n1psbri</odeBlockId>
+      <blockName>Saber negociar con personas de otras culturas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-p8k74ty2h</odePageId>
+          <odeBlockId>block-mp7bpq9d-t5n1psbri</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-k6563n556</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">Se debe hacer todo lo posible para comprender sus costumbres, ritos y maneras de entender la vida. Para poder negociar con cierta seguridad en situaciones interculturales, es importante tener una pauta clara de los elementos más distintivos de cada una de las culturas o países con los que se quiere mantener relación.</span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">Se debe hacer todo lo posible para comprender sus costumbres, ritos y maneras de entender la vida. Para poder negociar con cierta seguridad en situaciones interculturales, es importante tener una pauta clara de los elementos más distintivos de cada una de las culturas o países con los que se quiere mantener relación.</span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-kn8qgjqml</odePageId>
+  <odeParentPageId>page-mp7bpq9c-p8k74ty2h</odeParentPageId>
+  <pageName>Evaluación parcial</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación parcial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-kn8qgjqml</odePageId>
+      <odeBlockId>block-mp7bpq9d-umaj2ykdt</odeBlockId>
+      <blockName>Autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-kn8qgjqml</odePageId>
+          <odeBlockId>block-mp7bpq9d-umaj2ykdt</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-52dgraytc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Te invitamos a realizar la siguiente evaluación. El resultado de la misma no influirá en tu Evaluación Final ni la aprobación del curso</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Te invitamos a realizar la siguiente evaluación. El resultado de la misma no influirá en tu Evaluación Final ni la aprobación del curso</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-kn8qgjqml</odePageId>
+      <odeBlockId>block-mp7bpq9d-jgypda4nf</odeBlockId>
+      <blockName>Evaluación parcial</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-kn8qgjqml</odePageId>
+          <odeBlockId>block-mp7bpq9d-jgypda4nf</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-obdvqqlqp</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"selection","selectionType":"multiple","baseText":"<p>Para poder negociar con cierta seguridad en situaciones interculturales, es importante:</p>","answers":[[false,"Dominar a la perfección el medio en el que actuamos."],[false,"Establecer una distribución de roles dentro del equipo."],[true,"Tener una pauta clara de los elementos más distintivos de cada una de las culturas o países con los que se quiere mantener relación."]]},{"activityType":"selection","selectionType":"multiple","baseText":"<p>¿A qué nos referimos al hablar de “negociación en la sociedad del conocimiento?</p>","answers":[[false,"A saber negociar a través de correo electrónico o celular."],[false,"A saber negociar con personas de otras culturas."],[true,"Todas las opciones son correctas."]]},{"activityType":"selection","selectionType":"multiple","baseText":"<p>En la sociedad del conocimiento, ¿cuáles son los aspectos decisivos que todo negociador debe considerar?</p>","answers":[[true,"El manejo de internet y los múltiples espacios que se abren."],[false,"Las técnicas a utilizar en cada negociación."],[false,"Las estrategias para alcanzar el objetivos"]]},{"activityType":"selection","selectionType":"multiple","baseText":"<p>¿Cuáles son los saberes que todo negociador debe poseer?</p>","answers":[[false,"Saber negociar en entornos virtuales."],[false,"Saber negociar en equipo."],[false,"Saber negociar con personas de otras culturas."],[true,"Todas las opciones son correctas."]]},{"activityType":"selection","selectionType":"multiple","baseText":"<p>Saber negociar en equipo permite y facilita los juegos de manipulación, tomar decisiones en equipo es mucho más complejo, por lo tanto, es recomendable no precipitarse (en especial el líder) a decidir nada, sin contar con la aprobación de los demás integrantes.</p>","answers":[[true,"Verdadero"],[false,"Falso"]]}]}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7bpq9c-a4puryc6q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Para finalizar</pageName>
+  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para finalizar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7bpq9c-a4puryc6q</odePageId>
+      <odeBlockId>block-mp7bpq9d-otrnq3nn1</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7bpq9c-a4puryc6q</odePageId>
+          <odeBlockId>block-mp7bpq9d-otrnq3nn1</odeBlockId>
+          <odeIdeviceId>idevice-mp7bpq9d-wyg9qex5p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-size: 12pt;">Para finalizar te invitamos a escuchar los consejos de William Ury, cofundador del Programa de Negociación de Harvard, quien es uno de los principales expertos mundiales en negociación y mediación. Actualmente es miembro distinguido senior del Harvard Negotiation Project.</span></p>
+<p><span style="font-size: 12pt;"></span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><iframe width="560" height="315" src="https://www.youtube.com/embed/SKe6PgeW8_4?si=KWJzFuXpPcf2_X_u" allowfullscreen="allowfullscreen"></iframe><br /></span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-size: 12pt;\">Para finalizar te invitamos a escuchar los consejos de William Ury, cofundador del Programa de Negociación de Harvard, quien es uno de los principales expertos mundiales en negociación y mediación. Actualmente es miembro distinguido senior del Harvard Negotiation Project.</span></p>\n<p><span style=\"font-size: 12pt;\"></span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/SKe6PgeW8_4?si=KWJzFuXpPcf2_X_u\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
