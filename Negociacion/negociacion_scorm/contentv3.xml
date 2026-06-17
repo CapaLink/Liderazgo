@@ -364,7 +364,7 @@
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
-     <string value="scorm"></string>
+     <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
      <string value="exe-node:Negociaci%C3%B3n"></string>
      <string role="key" value="parent"></string>
@@ -577,7 +577,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="scorm"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Negociaci%C3%B3n:Qu%C3%A9%20es%20la%20negociaci%C3%B3n"></string>
         <string role="key" value="parent"></string>
@@ -736,7 +736,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="scorm"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Negociaci%C3%B3n:Qu%C3%A9%20es%20la%20negociaci%C3%B3n:El%20otro%20en%20la%20negociaci%C3%B3n"></string>
            <string role="key" value="parent"></string>
@@ -1050,7 +1050,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="scorm"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Negociaci%C3%B3n:Qu%C3%A9%20es%20la%20negociaci%C3%B3n:Distintas%20formas%20de%20negociaci%C3%B3n"></string>
            <string role="key" value="parent"></string>
@@ -1832,7 +1832,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="scorm"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Negociaci%C3%B3n:Qu%C3%A9%20es%20la%20negociaci%C3%B3n:Actividad"></string>
            <string role="key" value="parent"></string>
@@ -2016,7 +2016,7 @@ for the other options."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="scorm"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n"></string>
         <string role="key" value="parent"></string>
@@ -2188,7 +2188,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="scorm"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:Las%20personas"></string>
            <string role="key" value="parent"></string>
@@ -2490,7 +2490,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="scorm"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:La%20estrategia"></string>
            <string role="key" value="parent"></string>
@@ -2654,7 +2654,7 @@ for the other options."></unicode>
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="scorm"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:La%20estrategia:Preparaci%C3%B3n%20T%C3%A1ctica"></string>
               <string role="key" value="parent"></string>
@@ -3091,7 +3091,7 @@ for the other options."></unicode>
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="scorm"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:La%20estrategia:Preparaci%C3%B3n%20Creativa"></string>
               <string role="key" value="parent"></string>
@@ -3254,7 +3254,7 @@ for the other options."></unicode>
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="scorm"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:La%20estrategia:Preparaci%C3%B3n%20personal"></string>
               <string role="key" value="parent"></string>
@@ -3418,7 +3418,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="scorm"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:Las%20t%C3%A9cnicas"></string>
            <string role="key" value="parent"></string>
@@ -3589,7 +3589,7 @@ for the other options."></unicode>
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="scorm"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:Las%20t%C3%A9cnicas:1-%20Negociar%20intereses"></string>
               <string role="key" value="parent"></string>
@@ -3748,7 +3748,7 @@ for the other options."></unicode>
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="scorm"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:Las%20t%C3%A9cnicas:2-%20Generar%20acuerdos%20creativos"></string>
               <string role="key" value="parent"></string>
@@ -3907,7 +3907,7 @@ for the other options."></unicode>
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="scorm"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:Las%20t%C3%A9cnicas:3-%20Resolver%20conflictos"></string>
               <string role="key" value="parent"></string>
@@ -4144,7 +4144,7 @@ for the other options."></unicode>
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="scorm"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:Las%20t%C3%A9cnicas:4-%20Utilizar%20el%20MAPAN%20%28mejor%20alternativa%20posible%20al%20acuerdo%20negociado%29"></string>
               <string role="key" value="parent"></string>
@@ -4299,7 +4299,7 @@ for the other options."></unicode>
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="scorm"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:Las%20t%C3%A9cnicas:5-%20Articular%20propuestas"></string>
               <string role="key" value="parent"></string>
@@ -6221,7 +6221,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="scorm"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Negociaci%C3%B3n:Los%20caminos%20de%20la%20negociaci%C3%B3n:Evaluaci%C3%B3n%20parcial"></string>
            <string role="key" value="parent"></string>
@@ -6435,7 +6435,7 @@ clicking the red X next to the option."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="scorm"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Negociaci%C3%B3n:Negociar%20en%20la%20Sociedad%20del%20Conocimiento"></string>
         <string role="key" value="parent"></string>
@@ -6843,7 +6843,7 @@ clicking the red X next to the option."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="scorm"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Negociaci%C3%B3n:Saberes%20que%20todo%20negociador%20debe%20poseer"></string>
         <string role="key" value="parent"></string>
@@ -8632,7 +8632,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="scorm"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Negociaci%C3%B3n:Saberes%20que%20todo%20negociador%20debe%20poseer:Evaluaci%C3%B3n%20parcial"></string>
            <string role="key" value="parent"></string>
@@ -8791,7 +8791,7 @@ clicking the red X next to the option."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="scorm"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Negociaci%C3%B3n:Para%20finalizar"></string>
         <string role="key" value="parent"></string>
@@ -11031,7 +11031,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="scorm"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Negociaci%C3%B3n:Evaluaci%C3%B3n%20Final"></string>
         <string role="key" value="parent"></string>
